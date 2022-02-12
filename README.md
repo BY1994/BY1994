@@ -10,7 +10,7 @@ Embedded Software Engineer
   - mytreepy ([Python Package](https://pypi.org/project/mytreepy/), [Source Code](https://github.com/BY1994/treepy)): tree command for window which makes it possible to show only specific depth level (usage: pip install mytreepy / treepy -L 1)
 
 - as contributor
-  - tensorflow documentation ([Documentation](https://github.com/BY1994/docs)): translation in Korean
+  - 
 
 
 
